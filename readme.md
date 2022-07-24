@@ -11,3 +11,5 @@ Hello, I'm Kerim. I'm software developer and students. I live in Turkey.
 3. JavaScript
 4. Python
 5. Dart
+6. Java
+7. Go (loading...)
